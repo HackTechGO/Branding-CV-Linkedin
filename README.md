@@ -1,5 +1,5 @@
 # Branding-CV-Linkedin
-<h1>How to find a job as a developer</h1>
+<h1>How to brand yourself as a developer</h1>
 
 <h2>Resume tips</h2>
 <ul>
@@ -10,4 +10,9 @@
 <h2>Linkedin tips</h2>
 <ul>
   <li></li>
+</ul>
+
+<h2>Freelancing</h2>
+<ul>
+  <li>Freelancing? Here are 7 places where you can sell your software development services. Read  <a href="https://www.evernote.com/shard/s386/u/0/sh/5860e16c-302e-4289-b797-f1b5fa217341/98368bf3dfadffb58a6895078e4d9e14">HERE</a></li>
 </ul>
