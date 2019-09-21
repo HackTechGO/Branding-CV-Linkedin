@@ -7,9 +7,9 @@
     <li>Google: X-Y-Z formula. Read <a href="https://www.evernote.com/shard/s386/u/0/sh/058ef2bd-a269-46a8-940e-2435eedd7ffb/412e59a6d4d8638aeb46d959aa960ce8">HERE</a></li>
 </ul>
 
-<h2>Linkedin</h2>
+<h2>Linkedin</h2> 
 <ul>
-  <li></li>
+  <li>7 Creative LinkedIn Summary Examples & How to Write Your Own. Read <a href="https://www.evernote.com/shard/s386/u/0/sh/84fce6c8-9933-46cc-a043-a337a560f787/99d5e34af2fd1588f52b346fbf342b29">HERE</a></li>
 </ul>
 
 <h2>Online Presence</h2>
