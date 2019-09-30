@@ -29,6 +29,6 @@
 
 <h2>Self-development</h2>
 <ul>
-  <li> <a href="https://fs.blog/naval-ravikant/">Podcast: Naval Ravikant, The Angel Philosopher [The Knowledge Project Ep. #18]</a> Subscribe to Farnam Street newsletter</li>
+  <li> Podcast: Naval Ravikant, The Angel Philosopher [The Knowledge Project Ep. #18]. And subscribe to Farnam Street newsletter. Listen <a href="https://fs.blog/naval-ravikant/">HERE </a></li>
   <li>Newsletter by James Clear! Subscribe <a href="https://jamesclear.com/3-2-1">HERE</a></li>
 </ul>
