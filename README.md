@@ -24,8 +24,8 @@
 
 <h2>Networking</h2>
 <ul>
-    <li>Attend Meetups! Read <a href="https://www.evernote.com/shard/s386/sh/ddf03cc5-2838-46eb-91a4-3d18745c7dff/0abd564f940780f0934eed863c061dfc">HERE</a></li>
   <li>Read "Never Eat Alone" by Keith Ferrazi, preferably the <a href="https://www.amazon.com/Never-Eat-Alone-Expanded-Updated/dp/0385346654">book</a> or this short and sweet <a href="https://www.evernote.com/shard/s386/u/0/sh/2da729dd-2637-4ca0-a29e-3f9dceac8678/39faa412ab4cbe5efabec22e1aeee14a"> summary</a></li>
+  <li>Attend Meetups! Join <a href="https://www.evernote.com/shard/s386/sh/ddf03cc5-2838-46eb-91a4-3d18745c7dff/0abd564f940780f0934eed863c061dfc">HERE</a></li>
 </ul>
 
 <h2>Self-development</h2>
