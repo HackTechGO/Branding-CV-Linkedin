@@ -31,7 +31,7 @@
 
 <h2>Self-development</h2>
 <ul>
-  <li> Podcast: Naval Ravikant, The Angel Philosopher [The Knowledge Project Ep. #18]. And subscribe to Farnam Street newsletter. Listen <a href="https://fs.blog/naval-ravikant/">HERE </a></li>
+  <li> Podcast: Naval Ravikant, The Angel Philosopher [The Knowledge Project Ep. #18]. Listen <a href="https://fs.blog/naval-ravikant/">HERE. </a>And subscribe to Farnam Street newsletter.</li>
     <li>Behaviors That Will Make You Brilliant at Creativity & Relationships. Read <a href="https://www.evernote.com/shard/s386/u/0/sh/49c423be-c46b-4a32-9ecf-cc42f9a50fe8/2d63dfacff02c78efbc35d2cca569dd4">HERE</a></li>
-  <li>Newsletter by James Clear! Subscribe <a href="https://jamesclear.com/3-2-1">HERE</a></li>
+  <li>Read the book "Atomic Habits" by James Clear (here is a nice <a href="https://github.com/HackTechGO/Branding-CV-Linkedin/blob/master/Summary-Atomic-Habits-by-James-Clear.pdf">summary</a> to make coding a part of your daily life. And subscribe to his newsletter <a href="https://jamesclear.com/3-2-1">HERE</a></li>
 </ul>
