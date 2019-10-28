@@ -5,7 +5,7 @@
 <ul>
   <li>How to write a great resume for software engineers. Read <a href="https://www.evernote.com/shard/s386/u/0/sh/848d8cf7-04d6-4a05-b668-74278cc1aa64/08cd3c27de18785132d72f5d7649196b">HERE</a></li>
     <li>Google: X-Y-Z formula. Read <a href="https://www.evernote.com/shard/s386/u/0/sh/058ef2bd-a269-46a8-940e-2435eedd7ffb/412e59a6d4d8638aeb46d959aa960ce8">HERE</a></li>
-  <li>Design tool with amazing CV and cover letter templates. Check <a href="https://www.canva.com/">Canva</a></li>
+  <li>Design tool with amazing CV and cover letter templates. Check this amazing platform <a href="https://www.canva.com/">Canva</a>, or <a href="https://www.cvmaker.no/">CVmaker</a> </li>
 </ul>
 
 <h2>Linkedin</h2> 
